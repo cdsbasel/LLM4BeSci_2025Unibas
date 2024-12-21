@@ -29,7 +29,8 @@ Please complete the <a href="menu/installation.html">installation</a> instructio
 <a href="https://osf.io/preprints/psyarxiv/f7stn">Hussain, Binz, Mata, & Wulff (2024) A tutorial on open-source large language models for behavioral science
 </a>
 
-```@misc{hussain_binz_mata_wulff_2023,
+<code>
+@misc{hussain_binz_mata_wulff_2023,
  title={A tutorial on open-source large language models for behavioral science},
  url={osf.io/preprints/psyarxiv/f7stn},
  publisher={PsyArXiv},
@@ -38,7 +39,7 @@ Please complete the <a href="menu/installation.html">installation</a> instructio
  month={Dec},
  doi={https://doi.org/10.31234/osf.io/f7stn}
 }
-```
+</code>
 
 [Hugging face documentation](https://huggingface.co/docs)<br>
 [Hugging face book](https://transformersbook.com/)<br>
