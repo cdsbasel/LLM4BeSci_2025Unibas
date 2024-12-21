@@ -10,18 +10,18 @@ Please complete the <a href="menu/installation.html">installation</a> instructio
 ### Schedule
 
 <font style="font-size:10">09:15 AM - 09:45 AM: Welcome & Intro<br>
-09:00 AM - 10:00 AM: [Talk: Intro to LLMs]()<br>
+09:00 AM - 10:00 AM: Talk: Intro to LLMs<br>
 10:00 AM - 10:15 AM: Break<br>
-10:15 AM - 10:45 PM: [Talk: A gentle intro to Hugging Face and Python]()
-10:45 PM - 11:30 PM: [Exercise: Running pipelines]()<br>
+10:15 AM - 10:45 PM: Talk: A gentle intro to Hugging Face and Python
+10:45 PM - 11:30 PM: Exercise: Running pipelines<br>
 11:30 PM - 11:45 PM: break<br> 
-11:45 AM - 12:30 AM: [Talk: Intro to transformers & embeddings]()<br>
+11:45 AM - 12:30 AM: Talk: Intro to transformers & embeddings<br>
 12:30 PM - 14:00 PM: Lunch<br>
-14:00 PM - 14:45 PM: [Exercise: Clarifying personality psychology]()<br>
+14:00 PM - 14:45 PM: Exercise: Clarifying personality psychology<br>
 14:45 PM - 15:15 PM: Discussion: Find applications in small groups<br>
 15:15 PM - 15:30 PM: Break<br>
-15:30 AM - 16:15 AM: [Intro to text generation]()<br>
-16:00 AM - 17:00 PM: [Exercise: Numeracy]()<br>
+15:30 AM - 16:15 AM: Intro to text generation<br>
+16:00 AM - 17:00 PM: Exercise: Numeracy<br>
 14:45 PM - 15:15 PM: Discussion: Find applications in small groups<br>
 
 ### Resources
@@ -41,7 +41,7 @@ Please complete the <a href="menu/installation.html">installation</a> instructio
 }
 </code>
 
-[Hugging face documentation](https://huggingface.co/docs)<br>
-[Hugging face book](https://transformersbook.com/)<br>
-[But what is a GPT (3Blue1Brown)](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)<br>
+<a href="https://huggingface.co/docs">Hugging face documentation<br>
+<a href="https://transformersbook.com/">Hugging face book</a>><br>
+<a href="https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5">But what is a GPT (3Blue1Brown)</a>><br>
 
