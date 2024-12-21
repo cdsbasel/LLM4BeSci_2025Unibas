@@ -6,13 +6,10 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'Symposium',   path: 'menu', url: 'symposium.html'}
-- {name: 'SWOW',   path: 'menu', url:  'SWOW.html'}
-- {name: 'Norms',   path: 'menu', url: 'norms.html'}
-- {name: 'Corpora', path: 'menu', url: 'corpora.html'}
-- {name: 'Behavioral', path: 'menu', url: 'behavior.html'}
-- {name: 'Tools', path: 'menu', url: 'tools.html'}
-- {name: 'References', path: 'menu', url: 'references.html'}
+- {name: 'Training',   path: 'menu', url: 'training.html'}
+- {name: 'Symposium',   path: 'menu', url:  'symposium.html'}
+- {name: 'Project ideation',   path: 'menu', url: 'ideation.html'}
+- {name: 'Installation',   path: 'menu', url: 'installation.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
