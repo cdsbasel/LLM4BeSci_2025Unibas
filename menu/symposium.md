@@ -22,7 +22,6 @@ INTRO TEXT
 15:30 AM - 16:00 AM: Discussion<br>
 16:00 AM - 16:30 AM: Break<br>
 16:30 AM - 17:30 PM: US Keynote
-
 </font>
 
 ### Speakers
