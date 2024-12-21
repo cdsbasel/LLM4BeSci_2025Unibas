@@ -5,6 +5,8 @@ title: Training
 
 The training introduces the use of open-source large language models (LLMs) from the Hugging Face ecosystem for research in the behavioral sciences. 
 
+Please complete the <a href="menu/installation.html">installation</a> instruction before participating in the training. 
+
 ### Schedule
 
 <font style="font-size:10">09:15 AM - 09:45 AM: Welcome & Intro<br>
