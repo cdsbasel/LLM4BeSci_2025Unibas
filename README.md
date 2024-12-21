@@ -1,1 +1,1 @@
-# LLM4BeSci_2025Unibas
+# resources
