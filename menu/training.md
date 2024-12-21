@@ -23,13 +23,11 @@ Please complete the <a href="menu/installation.html">installation</a> instructio
 15:30 AM - 16:15 AM: Intro to text generation<br>
 16:00 AM - 17:00 PM: Exercise: Numeracy<br>
 14:45 PM - 15:15 PM: Discussion: Find applications in small groups<br>
+</font>
 
 ### Resources
 
-<a href="https://osf.io/preprints/psyarxiv/f7stn">Hussain, Binz, Mata, & Wulff (2024) A tutorial on open-source large language models for behavioral science
-</a><br>
-
-<a href="https://link.springer.com/article/10.3758/s13428-024-02455-8">Hussain, Z., Binz, M., Mata, R., & Wulff, D. U. (2024). A tutorial on open-source large language models for behavioral science. Behavior Research Methods, 56(8), 8214-8237.</a>br>br>
+<a href="https://link.springer.com/article/10.3758/s13428-024-02455-8">Hussain, Z., Binz, M., Mata, R., & Wulff, D. U. (2024). A tutorial on open-source large language models for behavioral science. Behavior Research Methods, 56(8), 8214-8237.</a><br><br>
 
 <a href="https://huggingface.co/docs">Hugging face documentation<br>
 <a href="https://transformersbook.com/">Hugging face book</a>><br>
