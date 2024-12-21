@@ -28,6 +28,7 @@ Please complete the <a href="menu/installation.html">installation</a> instructio
 
 <a href="https://osf.io/preprints/psyarxiv/f7stn">Hussain, Binz, Mata, & Wulff (2024) A tutorial on open-source large language models for behavioral science
 </a>
+
 ```@misc{hussain_binz_mata_wulff_2023,
  title={A tutorial on open-source large language models for behavioral science},
  url={osf.io/preprints/psyarxiv/f7stn},
