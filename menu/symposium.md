@@ -13,7 +13,7 @@ The one-day symposium will be dedicated to exploring the potential of large lang
 | 10:30 |---| **Welcome & Introduction**                            |
 | 11:00 |---| **Risk Embeddings**                                    <br> *MSc Zakir Hussain, Cognitive and Decision Sciences, University of Basel* |
 | 11:45 |---| **Moral Dilemmas**                                     <br> *Dr. Max Theisen, Cognitive and Decision Sciences, University of Basel* |
-| 12:30 |---| **Lunch**                                              |
+| 12:30 |---| **Lunch Break**                                              |
 | 14:00 |---| **The Evolution of Participant Diversity in Psychological Research**  <br> *Dr. Anna Thoma, Center for Adaptive Rationality, Max Planck Institute for Human Development* |
 | 14:45 |---| **LLM-rated Deservingness Predicts Crowdfunding Success**  <br> *Prof. Dr. Dominik Meier, Global Philanthropy, University of Basel* |
 | 15:30 |---| **Break**                                              |
