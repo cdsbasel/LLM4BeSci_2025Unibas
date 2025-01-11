@@ -22,3 +22,53 @@ The one-day symposium will be dedicated to exploring the potential of large lang
 | 17:30 - 18:30 | **Apéro**                                              |
 
 
+
+### Schedule
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">Time</th>
+    <th style="border: 1px solid black; padding: 8px;">Session Details</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">10:30 - 11:00</td>
+    <td style="border: 1px solid black; padding: 8px;"><strong>Welcome & Introduction</strong></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">11:00 - 11:45</td>
+    <td style="border: 1px solid black; padding: 8px;"><strong>Risk Embeddings</strong><br>MSc Zakir Hussain<br>Cognitive and Decision Sciences, University of Basel</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">11:45 - 12:30</td>
+    <td style="border: 1px solid black; padding: 8px;"><strong>Moral Dilemmas</strong><br>Dr. Max Theisen<br>Cognitive and Decision Sciences, University of Basel</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">12:30 - 14:00</td>
+    <td style="border: 1px solid black; padding: 8px;"><strong>Lunch</strong></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">14:00 - 14:45</td>
+    <td style="border: 1px solid black; padding: 8px;"><strong>The Evolution of Participant Diversity in Psychological Research</strong><br>Dr. Anna Thoma<br>Center for Adaptive Rationality, Max Planck Institute for Human Development</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">14:45 - 15:30</td>
+    <td style="border: 1px solid black; padding: 8px;"><strong>LLM-rated Deservingness Predicts Donation-Based Crowdfunding Success</strong><br>Prof. Dr. Dominik Meier<br>Global Philanthropy, University of Basel</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">15:30 - 16:00</td>
+    <td style="border: 1px solid black; padding: 8px;"><strong>Break</strong></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">16:00 - 16:45</td>
+    <td style="border: 1px solid black; padding: 8px;"><strong>Talk Title TBD</strong><br>Prof. Dr. Alexandra Siegel<br>Political Science, University of Colorado Boulder</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">16:45 - 17:30</td>
+    <td style="border: 1px solid black; padding: 8px;"><strong>Talk Title TBD</strong><br>Prof. Dr. Sudeep Bhatia<br>Computational Behavioral Science, University of Pennsylvania</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">17:30 - 18:30</td>
+    <td style="border: 1px solid black; padding: 8px;"><strong>Apéro</strong></td>
+  </tr>
+</table>
+
