@@ -8,8 +8,8 @@ The one-day symposium will be dedicated to exploring the potential of large lang
 
 ### Schedule
 
-| Time           | Session Details                                       |
-|----------------|------------------------------------------------------|
+| Time                  | Session Details                                       |
+|-----------------------|------------------------------------------------------|
 | 10:30 - 11:00 | **Welcome & Introduction**                            |
 | 11:00 - 11:45 | **Risk Embeddings**                                    <br> *MSc Zakir Hussain*  <br> *Cognitive and Decision Sciences, University of Basel* |
 | 11:45 - 12:30 | **Moral Dilemmas**                                     <br> *Dr. Max Theisen*  <br> *Cognitive and Decision Sciences, University of Basel* |
