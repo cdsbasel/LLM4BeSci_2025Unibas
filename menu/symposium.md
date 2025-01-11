@@ -4,26 +4,21 @@ title: Symposium
 ---
 
 
-INTRO TEXT
+The one-day symposium will be dedicated to exploring the potential of large language models (LLMs) in behavioral and social sciences. This event is designed for those who are beginning to work with LLMs or are already using them and want to deepen their understanding, gain new insights, and discuss innovative applications. Through a series of talks and discussions, participants will engage with cutting-edge research, learn about practical implementations, and explore how LLMs can address key challenges in fields such as psychology, economics, and political science. The symposium aims to foster a collaborative environment where researchers can exchange ideas about what LLMs can help achieve in scientific inquiry.
 
 ### Schedule
 
-<font style="font-size:10">09:15 AM - 09:45 AM: Welcome & Intro<br>
-9:00 AM - 9:30 AM: Talk 1<br>
-9:30 AM - 10:00 AM: Talk 2<br>
-10:00 AM - 10:30 AM: Talk 3<br>
-10:30 AM - 11:00 AM: Discussion<br>
-11:00 AM - 11:30 AM: Break<br>
-11:30 AM - 12:30 PM: European Keynote
-12:30 PM - 14:00 PM: Lunch
-14:00 AM - 14:30 AM: Talk 4<br>
-14:30 AM - 15:00 AM: Talk 5<br>
-15:00 AM - 15:30 AM: Talk 6<br>
-15:30 AM - 16:00 AM: Discussion<br>
-16:00 AM - 16:30 AM: Break<br>
-16:30 AM - 17:30 PM: US Keynote
-</font>
+| Time           | Session Details                                       |
+|----------------|------------------------------------------------------|
+| 10:30 - 11:00 | **Welcome & Introduction**                            |
+| 11:00 - 11:45 | **Risk Embeddings**                                    <br> *MSc Zakir Hussain*  <br> *Cognitive and Decision Sciences, University of Basel* |
+| 11:45 - 12:30 | **Moral Dilemmas**                                     <br> *Dr. Max Theisen*  <br> *Cognitive and Decision Sciences, University of Basel* |
+| 12:30 - 14:00 | **Lunch**                                              |
+| 14:00 - 14:45 | **The Evolution of Participant Diversity in Psychological Research**  <br> *Dr. Anna Thoma*  <br> *Center for Adaptive Rationality, Max Planck Institute for Human Development* |
+| 14:45 - 15:30 | **LLM-rated Deservingness Predicts Donation-Based Crowdfunding Success**  <br> *Prof. Dr. Dominik Meier*  <br> *Global Philanthropy, University of Basel* |
+| 15:30 - 16:00 | **Break**                                              |
+| 16:00 - 16:45 | **Talk Title TBD**                                     <br> *Prof. Dr. Alexandra Siegel*  <br> *Political Science, University of Colorado Boulder* |
+| 16:45 - 17:30 | **Talk Title TBD**                                     <br> *Prof. Dr. Sudeep Bhatia*  <br> *Computational Behavioral Science, University of Pennsylvania* |
+| 17:30 - 18:30 | **Apéro**                                              |
 
-### Speakers
 
-<a href="https://www.mpib-berlin.mpg.de/staff/anna-thoma">Anna Thoma, Max Planck Institute for Human Development</a>
