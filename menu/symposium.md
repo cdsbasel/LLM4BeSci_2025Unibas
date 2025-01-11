@@ -15,7 +15,7 @@ The one-day symposium will be dedicated to exploring the potential of large lang
 | 11:45 |---| **Moral Dilemmas**                                     <br> *Dr. Max Theisen, Cognitive and Decision Sciences, University of Basel* |
 | 12:30 |---| **Lunch**                                              |
 | 14:00 |---| **The Evolution of Participant Diversity in Psychological Research**  <br> *Dr. Anna Thoma, Center for Adaptive Rationality, Max Planck Institute for Human Development* |
-| 14:45 |---| **LLM-rated Deservingness Predicts Donation-Based Crowdfunding Success**  <br> *Prof. Dr. Dominik Meier, Global Philanthropy, University of Basel* |
+| 14:45 |---| **LLM-rated Deservingness Predicts Crowdfunding Success**  <br> *Prof. Dr. Dominik Meier, Global Philanthropy, University of Basel* |
 | 15:30 |---| **Break**                                              |
 | 16:00 |---| **Talk Title TBD (via Zoom)**                                     <br> *Prof. Dr. Alexandra Siegel, Political Science, University of Colorado Boulder* |
 | 16:45 |---| **Talk Title TBD (via Zoom)**                                     <br> *Prof. Dr. Sudeep Bhatia, Computational Behavioral Science, University of Pennsylvania* |
