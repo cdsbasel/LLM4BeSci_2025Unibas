@@ -5,8 +5,6 @@ title: Training
 
 The training introduces the use of open-source large language models (LLMs) from the Hugging Face ecosystem for research in the behavioral sciences. 
 
-Please complete the <a href="menu/installation.html"><b>installation</b></a> instruction before participating in the training. 
-
 ### Schedule
 
 <font style="font-size:10">09:15 AM - 09:45 AM: Welcome & Intro<br>
@@ -41,6 +39,6 @@ Please complete the <a href="menu/installation.html"><b>installation</b></a> ins
 ```
 
 <a href="https://huggingface.co/docs">Hugging face documentation<br>
-<a href="https://transformersbook.com/">Hugging face book</a>><br>
-<a href="https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5">But what is a GPT (3Blue1Brown)</a>><br>
+<a href="https://transformersbook.com/">Hugging face book</a><br>
+<a href="https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5">But what is a GPT (3Blue1Brown)</a><br>
 
