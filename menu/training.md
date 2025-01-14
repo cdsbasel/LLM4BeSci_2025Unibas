@@ -10,7 +10,7 @@ The training introduces the use of open-source large language models (LLMs) from
 <font style="font-size:10">09:15 AM - 09:45 AM: Welcome & Intro<br>
 09:00 AM - 10:00: Talk: Intro to LLMs<br>
 10:00 AM - 10:15: Break<br>
-10:15 AM - 10:45: Talk: A gentle intro to Hugging Face and Python
+10:15 AM - 10:45: Talk: A gentle intro to Hugging Face and Python<br>
 10:45 PM - 11:30: Exercise: Running pipelines<br>
 11:30 PM - 11:45: break<br> 
 11:45 AM - 12:30: Talk: Intro to feature extraction and text generation<br>
