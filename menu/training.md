@@ -25,16 +25,16 @@ The training introduces the use of open-source large language models (LLMs) from
 
 ### Resources
 
-<a href="https://link.springer.com/article/10.3758/s13428-024-02455-8">Hussain, Z., Binz, M., Mata, R., & Wulff, D. U. (2024). A tutorial on open-source large language models for behavioral science. Behavior Research Methods, 56(8), 8214-8237.</a><br>
-
-```@misc{hussain_binz_mata_wulff_2023,
- title={A tutorial on open-source large language models for behavioral science},
- url={osf.io/preprints/psyarxiv/f7stn},
- publisher={PsyArXiv},
- author={Hussain, Zak and Binz, Marcel and Mata, Rui and Wulff, Dirk U},
- year={2023},
- month={Dec},
- doi={https://doi.org/10.31234/osf.io/f7stn}
+<a href="https://doi.org/10.3758/s13428-024-02455-8">Hussain, Binz, Mata, & Wulff (2024). A tutorial on open-source large language models for behavioral science. *Behavior Research Methods*, 1-24.
+</a>
+```
+@article{hussain2024tutorial,
+  title={A tutorial on open-source large language models for behavioral science},
+  author={Hussain, Zak and Binz, Marcel and Mata, Rui and Wulff, Dirk U},
+  journal={Behavior Research Methods},
+  pages={1--24},
+  year={2024},
+  publisher={Springer}
 }
 ```
 
