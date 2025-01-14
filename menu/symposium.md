@@ -11,13 +11,13 @@ The one-day symposium will be dedicated to exploring the potential of large lang
 | Time |---| Session Details                                       |
 |------|---|------------------------------------------------------|
 | 10:30 |---| **Welcome & Introduction**                            |
-| 11:00 |---| **Risk Embeddings**                                    <br> *MSc Zakir Hussain, Cognitive and Decision Sciences, University of Basel* |
-| 11:45 |---| **Moral Dilemmas**                                     <br> *Dr. Max Theisen, Cognitive and Decision Sciences, University of Basel* |
+| 11:00 |---| **Risk embeddings**<br> *MSc Zakir Hussain, Cognitive and Decision Sciences, University of Basel* |
+| 11:45 |---| **Turning a radio show into research data: A field report on challenges in speech-to-text automation**<br> *Dr. Max Theisen, Cognitive and Decision Sciences, University of Basel* |
 | 12:30 |---| **Lunch Break**                                              |
-| 14:00 |---| **The Evolution of Participant Diversity in Psychological Research**  <br> *Dr. Anna Thoma, Center for Adaptive Rationality, Max Planck Institute for Human Development* |
-| 14:45 |---| **LLM-rated Deservingness Predicts Crowdfunding Success**  <br> *Prof. Dr. Dominik Meier, Global Philanthropy, University of Basel* |
+| 14:00 |---| **The evolution of participant diversity in psychological research**  <br> *Dr. Anna Thoma, Center for Adaptive Rationality, Max Planck Institute for Human Development* |
+| 14:45 |---| **LLM-rated deservingness predicts crowdfunding success**  <br> *Prof. Dr. Dominik Meier, Global Philanthropy, University of Basel* |
 | 15:30 |---| **Break**                                              |
-| 16:00 |---| **Talk Title TBD (via Zoom)**                                     <br> *Prof. Dr. Alexandra Siegel, Political Science, University of Colorado Boulder* |
-| 16:45 |---| **Talk Title TBD (via Zoom)**                                     <br> *Prof. Dr. Sudeep Bhatia, Computational Behavioral Science, University of Pennsylvania* |
-| 17:30 |---| **Apéro**                                              |
+| 16:00 |---| **Are minorities punished more harshly for underperformance? Evidence from Premier League Soccer (via Zoom)** <br> *Prof. Dr. Alexandra Siegel, Political Science, University of Colorado Boulder* |
+| 16:45 |---| **Computational analysis of 100K choice dilemmas” (via Zoom)** <br> *Prof. Dr. Sudeep Bhatia, Computational Behavioral Science, University of Pennsylvania* |
+| 17:30 |---| **Apéro**   |
 
