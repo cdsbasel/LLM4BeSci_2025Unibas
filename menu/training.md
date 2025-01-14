@@ -8,19 +8,17 @@ The training introduces the use of open-source large language models (LLMs) from
 ### Schedule
 
 <font style="font-size:10">09:15 AM - 09:45 AM: Welcome & Intro<br>
-09:00 AM - 10:00 AM: Talk: Intro to LLMs<br>
-10:00 AM - 10:15 AM: Break<br>
-10:15 AM - 10:45 PM: Talk: A gentle intro to Hugging Face and Python
-10:45 PM - 11:30 PM: Exercise: Running pipelines<br>
-11:30 PM - 11:45 PM: break<br> 
-11:45 AM - 12:30 AM: Talk: Intro to transformers & embeddings<br>
-12:30 PM - 14:00 PM: Lunch<br>
-14:00 PM - 14:45 PM: Exercise: Clarifying personality psychology<br>
-14:45 PM - 15:15 PM: Discussion: Find applications in small groups<br>
-15:15 PM - 15:30 PM: Break<br>
-15:30 AM - 16:15 AM: Intro to text generation<br>
-16:00 AM - 17:00 PM: Exercise: Numeracy<br>
-14:45 PM - 15:15 PM: Discussion: Find applications in small groups<br>
+09:00 AM - 10:00: Talk: Intro to LLMs<br>
+10:00 AM - 10:15: Break<br>
+10:15 AM - 10:45: Talk: A gentle intro to Hugging Face and Python
+10:45 PM - 11:30: Exercise: Running pipelines<br>
+11:30 PM - 11:45: break<br> 
+11:45 AM - 12:30: Talk: Intro to feature extraction and text generation<br>
+12:30 PM - 14:00: Lunch<br>
+14:00 PM - 14:45: Exercise: Feature extraction<br>
+14:45 PM - 15:15: Break<br>
+15:15 AM - 16:00: Exercise: Text generation<br>
+16:00 AM - 17:00: Demo: Intro to using LLMs with sciCORE<br>
 </font>
 
 ### Resources
