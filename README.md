@@ -1,1 +1,1 @@
-# resources
+# Open-Source Large Language Models for Behavioral Science
