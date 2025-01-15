@@ -12,10 +12,11 @@ The one-day symposium will be dedicated to exploring the potential of large lang
 |------|---|------------------------------------------------------|
 | 10:30 |---| **Welcome & Introduction**                            |
 | 11:00 |---| **Risk embeddings**<br> *MSc Zakir Hussain, Cognitive and Decision Sciences, University of Basel* |
-| 11:45 |---| **Turning a radio show into research data: A field report on challenges in speech-to-text automation**<br> *Dr. Max Theisen, Cognitive and Decision Sciences, University of Basel* |
+| 11:30 |---| **Turning a radio show into research data: A field report on challenges in speech-to-text automation**<br> *Dr. Max Theisen, Cognitive and Decision Sciences, University of Basel* |
+| 12:00 |---| **LLM-rated deservingness predicts crowdfunding success**  <br> *Prof. Dr. Dominik Meier, Global Philanthropy, University of Basel* |
 | 12:30 |---| **Lunch Break**                                              |
-| 14:00 |---| **The evolution of participant diversity in psychological research**  <br> *Dr. Anna Thoma, Center for Adaptive Rationality, Max Planck Institute for Human Development* |
-| 14:45 |---| **LLM-rated deservingness predicts crowdfunding success**  <br> *Prof. Dr. Dominik Meier, Global Philanthropy, University of Basel* |
+| 14:30 |---| **TBC **  <br> *Dr. Anna Thoma, Center for Adaptive Rationality, Max Planck Institute for Human Development* |
+| 15:00 |---| **Shaping parliamentary debate: Measuring the centrality of party leaders in populist discourse with LLMs**  <br> *MSc Clint Claessen, Political Science, University of Basel* |
 | 15:30 |---| **Break**                                              |
 | 16:00 |---| **Are minorities punished more harshly for underperformance? Evidence from Premier League Soccer (via Zoom)** <br> *Prof. Dr. Alexandra Siegel, Political Science, University of Colorado Boulder* |
 | 16:45 |---| **Computational analysis of 100K choice dilemmas” (via Zoom)** <br> *Prof. Dr. Sudeep Bhatia, Computational Behavioral Science, University of Pennsylvania* |
