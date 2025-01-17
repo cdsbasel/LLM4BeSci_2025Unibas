@@ -15,7 +15,7 @@ The one-day symposium will be dedicated to exploring the potential of large lang
 | 11:30 |---| **Turning a radio show into research data: A field report on challenges in speech-to-text automation**<br> *Dr. Max Theisen, Cognitive and Decision Sciences, University of Basel* |
 | 12:00 |---| **LLM-rated deservingness predicts crowdfunding success**  <br> *Prof. Dr. Dominik Meier, Global Philanthropy, University of Basel* |
 | 12:30 |---| **Lunch Break**                                              |
-| 14:30 |---| **TBC**  <br> *Dr. Anna Thoma, Center for Adaptive Rationality, Max Planck Institute for Human Development* |
+| 14:30 |---| **Examining participant diversity in psychological research using LLMs**  <br> *Dr. Anna Thoma, Center for Adaptive Rationality, Max Planck Institute for Human Development* |
 | 15:00 |---| **Shaping parliamentary debate: Measuring the centrality of party leaders in populist discourse with LLMs**  <br> *MSc Clint Claessen, Political Science, University of Basel* |
 | 15:30 |---| **Break**                                              |
 | 16:00 |---| **Are minorities punished more harshly for underperformance? Evidence from Premier League soccer (via Zoom)** <br> *Prof. Dr. Alexandra Siegel, Political Science, University of Colorado Boulder* |
