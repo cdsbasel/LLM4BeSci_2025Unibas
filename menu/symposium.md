@@ -10,7 +10,7 @@ The one-day symposium will take place **Tuesday, February 11th, 2025** and will 
 
 | Time |---| Session Details                                       |
 |------|---|------------------------------------------------------|
-| 10:30 |---| **Welcome & Introduction**                            |
+| 10:50 |---| **Welcome & Introduction**                            |
 | 11:00 |---| **Risk embeddings**<br> *MSc Zakir Hussain, Cognitive and Decision Sciences, University of Basel* |
 | 11:30 |---| **Turning a radio show into research data: A field report on challenges in speech-to-text automation**<br> *Dr. Max Theisen, Cognitive and Decision Sciences, University of Basel* |
 | 12:00 |---| **LLM-rated deservingness predicts crowdfunding success**  <br> *Prof. Dr. Dominik Meier, Global Philanthropy, University of Basel* |
