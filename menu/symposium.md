@@ -4,7 +4,7 @@ title: Symposium
 ---
 
 
-The one-day symposium will be dedicated to exploring the potential of large language models (LLMs) in behavioral and social sciences. This event is designed for those who are beginning to work with LLMs or are already using them and want to deepen their understanding, gain new insights, and discuss innovative applications. Through a series of talks and discussions, participants will engage with cutting-edge research, learn about practical implementations, and explore how LLMs can address key challenges in fields such as psychology, economics, and political science. The symposium aims to foster a collaborative environment where researchers can exchange ideas about what LLMs can help achieve in scientific inquiry.
+The one-day symposium will take place **Tuesday, February 11th, 2025** and will be dedicated to exploring the potential of large language models (LLMs) in behavioral and social sciences. This event is designed for those who are beginning to work with LLMs or are already using them and want to deepen their understanding, gain new insights, and discuss innovative applications. Through a series of talks and discussions, participants will engage with cutting-edge research, learn about practical implementations, and explore how LLMs can address key challenges in fields such as psychology, economics, and political science. The symposium aims to foster a collaborative environment where researchers can exchange ideas about what LLMs can help achieve in scientific inquiry.
 
 ### Schedule
 

@@ -3,7 +3,7 @@ layout: page
 title: Training
 ---
 
-The training introduces the use of open-source large language models (LLMs) from the Hugging Face ecosystem for research in the behavioral sciences. 
+The one-day training session will take place **Monday, February 10th, 2025** and will introduce the use of open-source large language models (LLMs) from the Hugging Face ecosystem for research in the behavioral sciences. 
 
 ### Schedule
 
