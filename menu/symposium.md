@@ -8,18 +8,18 @@ The one-day symposium will take place **Tuesday, February 11th, 2025** at the Fa
 
 ### Schedule
 
-| Time |---| Session Details                                       |
-|------|---|------------------------------------------------------|
-| 10:50 |---| **Welcome & Introduction**                            |
-| 11:00 |---| **Risk embeddings**<br> *MSc Zakir Hussain, Cognitive and Decision Sciences, University of Basel* |
-| 11:30 |---| **Turning a radio show into research data: A field report on challenges in speech-to-text automation**<br> *Dr. Max Theisen, Cognitive and Decision Sciences, University of Basel* |
-| 12:00 |---| **LLM-rated deservingness predicts crowdfunding success**  <br> *Prof. Dr. Dominik Meier, Global Philanthropy, University of Basel* |
-| 12:30 |---| **Lunch Break**                                              |
-| 14:00 |---| **Simulating social media using Large Language Models**  <br> *Prof. Dr. Petter Törnberg, University of Amsterdam* |
-| 14:30 |---| **Examining participant diversity in psychological research using LLMs**  <br> *Dr. Anna Thoma, Center for Adaptive Rationality, Max Planck Institute for Human Development* |
-| 15:00 |---| **Shaping parliamentary debate: Measuring the centrality of party leaders in populist discourse with LLMs**  <br> *MSc Clint Claessen, Political Science, University of Basel* |
-| 15:30 |---| **Break**                                              |
+| Time |---| Session Details                                                                                                                                                                                    |
+|------|---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 10:50 |---| **Welcome & Introduction**                                                                                                                                                                         |
+| 11:00 |---| **Language models accurately predict risk perception**<br> *MSc Zakir Hussain, Cognitive and Decision Sciences, University of Basel*                                                               |
+| 11:30 |---| **Turning a radio show into research data: A field report on challenges in speech-to-text automation**<br> *Dr. Max Theisen, Cognitive and Decision Sciences, University of Basel*                 |
+| 12:00 |---| **LLM-rated deservingness predicts crowdfunding success**  <br> *Prof. Dr. Dominik Meier, Global Philanthropy, University of Basel*                                                                |
+| 12:30 |---| **Lunch Break**                                                                                                                                                                                    |
+| 14:00 |---| **Simulating social media using Large Language Models**  <br> *Prof. Dr. Petter Törnberg, University of Amsterdam*                                                                                 |
+| 14:30 |---| **Examining participant diversity in psychological research using LLMs**  <br> *Dr. Anna Thoma, Center for Adaptive Rationality, Max Planck Institute for Human Development*                       |
+| 15:00 |---| **Shaping parliamentary debate: Measuring the centrality of party leaders in populist discourse with LLMs**  <br> *MSc Clint Claessen, Political Science, University of Basel*                     |
+| 15:30 |---| **Break**                                                                                                                                                                                          |
 | 16:00 |---| **Are minorities punished more harshly for underperformance? Evidence from Premier League soccer (via Zoom)** <br> *Prof. Dr. Alexandra Siegel, Political Science, University of Colorado Boulder* |
-| 16:45 |---| **Computational analysis of 100K choice dilemmas” (via Zoom)** <br> *Prof. Dr. Sudeep Bhatia, Computational Behavioral Science, University of Pennsylvania* |
-| 17:30 |---| **Apéro**   |
+| 16:45 |---| **Computational analysis of 100K choice dilemmas” (via Zoom)** <br> *Prof. Dr. Sudeep Bhatia, Computational Behavioral Science, University of Pennsylvania*                                        |
+| 17:30 |---| **Apéro**                                                                                                                                                                                          |
 

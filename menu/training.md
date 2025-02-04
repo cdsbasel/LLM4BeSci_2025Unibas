@@ -7,18 +7,18 @@ The one-day training session will take place **Monday, February 10th, 2025,** an
 
 ### Schedule
 
-<font style="font-size:10">09:15 AM - 09:45 AM: Welcome & Intro<br>
-09:00 AM - 10:00: Talk: Intro to LLMs<br>
-10:00 AM - 10:15: Break<br>
-10:15 AM - 10:45: Talk: A gentle intro to Hugging Face and Python<br>
-10:45 PM - 11:30: Exercise: Running pipelines<br>
-11:30 PM - 11:45: break<br> 
-11:45 AM - 12:30: Talk: Intro to feature extraction and text generation<br>
-12:30 PM - 14:00: Lunch<br>
-14:00 PM - 14:45: Exercise: Feature extraction<br>
-14:45 PM - 15:15: Break<br>
-15:15 AM - 16:00: Exercise: Text generation<br>
-16:00 AM - 17:00: Demo: Intro to using LLMs with sciCORE<br>
+<font style="font-size:10">
+09:15 - 09:45: Welcome & Intro<br>
+09:45 - 10:30: Talk: Intro to LLMs<br>
+10:30 - 10:45: Break<br>
+10:45 - 11:15: Talk: A gentle intro to Hugging Face and Python<br>
+11:15 - 12:00: Exercise: Running pipelines<br>
+12:00 - 13:00: Lunch<br>
+13:00 - 14:00: Talk: Intro to feature extraction and text generation<br>
+14:00 - 15:00: Exercise: Feature extraction<br>
+15:00 - 15:15: Break<br>
+15:15 - 16:15: Exercise: Text generation<br>
+16:15 - 17:00: Demo: Intro to using LLMs with sciCORE<br>
 </font>
 
 ### Resources
