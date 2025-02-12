@@ -8,5 +8,11 @@ The optional project ideation session will take place **Wednesday, February 12th
 Through brainstorming sessions, and guided activities and mentorship, participants will refine their concepts and receive feedback needed to craft project proposals. Those who participate in this session and submit a project proposal (1-2 pages by Feb 15th) will have the chance to earn an additional credit point, awarded via a Learning Contract.
 
 
-
+| Time |---| Session Details     |
+|------|---|---------------------|
+| 9:30 |---| *Ground rules*   |
+| 9:45 |---| *Group/Individual Work* |
+| 11:00 |---| *Lightning talks* |
+| 11:50 |---| *Wrap-up* |
+        
 
